@@ -1,3 +1,8 @@
 raw_data/
-output/*
-!output/sample_output_preview.csv
+output/
+
+*.csv
+!sample_data/sample_brts_data.csv
+
+__pycache__/
+*.pyc
